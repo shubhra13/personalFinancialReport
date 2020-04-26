@@ -1,6 +1,0 @@
-export PLAID_CLIENT_ID="5e9905e4047a1d001580f21f"
-export PLAID_SECRET="042d9ba1ae14be82fb9e1896dc71b3"
-export PLAID_PUBLIC_KEY="c4afbc536e0ca0e2c20eddd64c841d"
-export PLAID_PRODUCTS="transactions"
-export PLAID_COUNTRY_CODES="US,CA,GB,FR,ES,IE,NL"
-export PLAID_ENV="sandbox"
